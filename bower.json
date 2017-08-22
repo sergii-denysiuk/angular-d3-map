@@ -1,0 +1,25 @@
+{
+  "name": "angular-d3-map",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Sergii Denysiuk <sergii.denysiuk@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4",
+    "d3": "^4.10.0",
+    "d3-queue": "^3.0.7",
+    "topojson": "^3.0.0",
+    "d3-geo-projection": "^0.2.16"
+  }
+}

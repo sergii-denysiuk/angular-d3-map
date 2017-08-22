@@ -1,0 +1,14 @@
+.d3-world-map svg {
+    background: #234c75;
+    border: solid black 1px;
+}
+
+.d3-world-map .country {
+    stroke: black;
+    stroke-width: 0.1;
+}
+
+.d3-world-map g.button:hover {
+    opacity: 0.75;
+    cursor: pointer;
+}
