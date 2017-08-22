@@ -1,4 +1,4 @@
-# angular-google-maps #
+# angular-d3-maps #
 Getting started with the Google Maps JavaScript API. Based on tutorial from [FrontenderMagazine](https://github.com/FrontenderMagazine/d3js-map-visualization/blob/master/rus.md).
 
 
